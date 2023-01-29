@@ -1,7 +1,7 @@
 # NBA-Data-Analysis
-Project to explore data from the NBA API. In this project, we take the user input for two teams, a stat they want to visualize and a line to set as a threshold. After that, we take the last n games of every team in the league for a season, displaying their means for that stat based on a general context and on a home/away context.
+Project to explore the progression of a stat of a NBA team. In this project, we take the user input for a team, a stat they want to visualize and a line to set as a threshold. After that, we take the last n games of the selected team in the league for a season, displaying it's means for that stat based on a general context and on a home/away context.
 
-The last part of the project is about giving information about the selected teams. First, we display all of the last n games for a team, printing the wins in green and the losses in red. After that, we print the % of those games that the team was above the selected line for that stat. We do that both in a general context and in a home/away context.
+The last part of the project is about giving information about the selected team. First, we display all of the last n games for the team, printing the wins in green and the losses in red. After that, we print the % of those games that the team was above the selected line for that stat. We do that both in a general context and in a home/away context.
 
 Finally, we plot two charts. One that represents the progression of made/conceded for that stat, annotating each point with A for away games and H for home games. We also number each game so it's easier to find that matchup in the list mentioned earlier. The last chart plots the progression of totals for that stat, setting a vertical line that represents the threshold set earlier.
 
