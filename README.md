@@ -8,9 +8,9 @@ Finally, we plot three charts. One that represents the progression of made/conce
 ## Example
 With the Philadelphia 76ers as a chosen team, PTS as the chosen stat and 231 as the chosen line, we would get the following charts:
 
-![PHI - PTS Made-Conceded Progression](https://user-images.githubusercontent.com/49076270/215284241-967ffb32-a2fd-4eeb-99c5-b80514d657a1.jpg)
+![PHI - PTS Made-Conceded Progression](https://user-images.githubusercontent.com/49076270/215479058-76bc77be-690d-412e-a7de-768a50970769.jpg)
 
-![PHI - PTS Totals Progression](https://user-images.githubusercontent.com/49076270/215284244-c1f45b5a-fb19-431a-ac49-7884d98a7afd.jpg)
+![PHI - PTS Totals Progression](https://user-images.githubusercontent.com/49076270/215479206-18ea3006-3226-49a6-af00-c2c0c79cf243.jpg)
 
 ![PHI - PTS Made-Conceded Scatter Progression](https://user-images.githubusercontent.com/49076270/215478832-7f27b42c-39a5-42c4-97fb-042113aeb0d1.jpg)
 
