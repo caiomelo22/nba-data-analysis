@@ -1,4 +1,4 @@
-# NBA-Data-Analysis
+# NBA Data Analysis
 Project to explore the progression of a stat of a NBA team. In this project, we take the user input for a team, a stat they want to visualize and a line to set as a threshold. After that, we take the last n games of the selected team in the league for a season, displaying it's means for that stat based on a general context and on a home/away context.
 
 The last part of the project is about giving information about the selected team. First, we display all of the last n games for the team, printing the wins in green and the losses in red. After that, we print the % of those games that the team was above the selected line for that stat. We do that both in a general context and in a home/away context.
